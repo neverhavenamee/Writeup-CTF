@@ -1,8 +1,11 @@
 # SOAP
 
 Source: PicoCTF
+
 Tools: Burpsuite
+
 Technique: XXE vul
+
 Fields: Web
 
 ![Untitled](Untitled.png)
