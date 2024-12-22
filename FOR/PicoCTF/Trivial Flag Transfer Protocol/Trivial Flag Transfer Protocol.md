@@ -1,8 +1,11 @@
 # Trivial Flag Transfer Protocol
 
 Source: PicoCTF
+
 Tools: Steghide, Wireshark
+
 Technique: Export Objects, extract file
+
 Fields: forensic
 
 - Viewing this packet capture in Wireshark shows a substantial amount of tftp traffic:
