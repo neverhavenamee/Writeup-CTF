@@ -1,10 +1,12 @@
 # Hacksudo Docker CTFv1 Web to root
 
 Source: github
+
 Tools: Burpsuite
+
 Technique: Linux Privilege Escalation, Path Traversal, Poisoning web log
+
 Fields: Web
-Level: hơi mất thời gian
 
 [GitHub - hacksudo/hacksudoctfv1: Hacksudo Docker CTFv1 Web to root easy challange @coded By Vishal Waghmare](https://github.com/hacksudo/hacksudoctfv1/?fbclid=IwY2xjawGHYbJleHRuA2FlbQIxMQABHUP-4mpg5kqv3JeWVRhAPOTLqQkRI_OIg5LFbKVQsWCKYPV_QBftfz2rBw_aem_kRqBoLNuKPGGE5jM5wD_cw)
 
