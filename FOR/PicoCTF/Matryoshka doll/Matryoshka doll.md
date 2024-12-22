@@ -1,8 +1,11 @@
 # Matryoshka doll
 
 Source: PicoCTF
+
 Tools: binwalk
+
 Technique: extract file
+
 Fields: forensic
 
 ![Untitled](Untitled.png)
