@@ -1,9 +1,10 @@
 # thru_the_filter_test_flag
 
 Source: ISITDTU CTF 2023
+
 Technique: SSTI
+
 Fields: Web
-Notes: nhặt đc tool Bypass the WAF without knowing WAF(SSTI)
 
 - SOURCE
     
