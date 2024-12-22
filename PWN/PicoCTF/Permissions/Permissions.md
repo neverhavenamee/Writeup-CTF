@@ -1,9 +1,10 @@
 # Permissions
 
 Source: PicoCTF
+
 Technique: Linux Privilege Escalation
+
 Fields: general skills, pwn
-Level: easy
 
 - https://play.picoctf.org/practice/challenge/363?category=5&page=4
 - We try to check whether can we open any dir
