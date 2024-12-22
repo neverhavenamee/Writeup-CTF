@@ -1,9 +1,10 @@
 # c0rrupt
 
 Source: PicoCTF
+
 Fields: forensic
-Notes: 
-PNG specification
+
+Notes: PNG specification
 
 - check file type
 - run strings on the file to see it if gives us anything interesting
