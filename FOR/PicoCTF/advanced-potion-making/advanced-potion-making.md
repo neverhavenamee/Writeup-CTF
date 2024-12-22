@@ -1,8 +1,11 @@
 # advanced-potion-making
 
 Source: PicoCTF
+
 Tools: HexEditor, fotoforensics
+
 Technique: file signature
+
 Fields: forensic
 
 - the file ‘s stucture changed
