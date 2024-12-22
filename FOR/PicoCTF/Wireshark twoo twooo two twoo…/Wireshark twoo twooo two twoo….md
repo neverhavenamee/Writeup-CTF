@@ -1,8 +1,11 @@
 # Wireshark twoo twooo two twoo…
 
 Source: PicoCTF
+
 Tools: Curl, Wireshark
+
 Technique: follow stream
+
 Fields: forensic
 
 - lọc các giao thức để tìm điểm đặc biệt thì thấy DNS có sự lặp lại ở những subdomain trên tên miền [reddshrimpandherring.com](http://reddshrimpandherring.com/) và source và Destination chỉ có : 8.8.8.8 , 192.168.38.104 và 18.217.1.57.
