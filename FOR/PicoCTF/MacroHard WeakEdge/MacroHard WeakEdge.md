@@ -1,8 +1,11 @@
 # MacroHard WeakEdge
 
 Source: PicoCTF
+
 Tools: olevba
+
 Technique: unzip
+
 Fields: forensic
 
 ![Untitled](Untitled.png)
