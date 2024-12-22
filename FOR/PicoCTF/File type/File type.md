@@ -1,8 +1,11 @@
 # File type
 
 Source: PicoCTF
+
 Tools: cat
+
 Technique: decode, extract file, file type, hex
+
 Fields: forensic
 
 - use cat or olevba command to read file
