@@ -1,8 +1,11 @@
 # Sleuthkit Apprentice
 
 Source: PicoCTF
+
 Tools: autospy
+
 Technique: extract file
+
 Fields: forensic
 
 - Download file and extract the image
