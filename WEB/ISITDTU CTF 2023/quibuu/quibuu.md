@@ -1,7 +1,9 @@
 # quibuu
 
 Source: ISITDTU CTF 2023
+
 Technique: Blind SQL Injection
+
 Fields: Web
 
 - app.py
