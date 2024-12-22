@@ -1,7 +1,9 @@
 # IntroToBurp
 
 Source: PicoCTF
+
 Tools: Burpsuite
+
 Fields: Web
 
 when you intercept the request for the authentication you see something like this:
