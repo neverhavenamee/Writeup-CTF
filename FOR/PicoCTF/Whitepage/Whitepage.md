@@ -1,8 +1,11 @@
 # Whitepage
 
 Source: PicoCTF
+
 Tools: Code
+
 Technique: whitespace character
+
 Fields: forensic
 
 - Open downloaded file, we received an empty file  —> let’s try Ctrl + A
