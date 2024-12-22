@@ -1,8 +1,11 @@
 # Baby SQLite With Filter
 
 Source: Cookie Arena
+
 Tools: Burpsuite
+
 Technique: SQLI
+
 Fields: Web
 
 - src
