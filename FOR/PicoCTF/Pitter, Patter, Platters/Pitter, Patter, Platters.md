@@ -1,7 +1,9 @@
 # Pitter, Patter, Platters
 
 Source: PicoCTF
+
 Tools: file, fls, icat, od, strings, xxd
+
 Fields: forensic
 
 - first, let’s see what’s the file we have
