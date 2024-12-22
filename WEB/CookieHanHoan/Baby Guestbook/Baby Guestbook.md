@@ -1,8 +1,11 @@
 # Baby Guestbook
 
 Source: Cookie Arena
+
 Tools: Burpsuite
+
 Technique: Path Traversal
+
 Fields: Web
 
 ![image.png](image.png)
