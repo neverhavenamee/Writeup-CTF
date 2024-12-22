@@ -1,8 +1,11 @@
 # Baby Simple Go CURL
 
 Source: Cookie Arena
+
 Tools: Burpsuite
+
 Technique: SSRF
+
 Fields: Web
 
 - main.go
